@@ -1,6 +1,6 @@
 PlugwiseOnLinux :
 
-This version pairs your Plugwise Circles and Circle+ on Linux. written by Marteen Damen so big thanks goes to him.
+This version pairs your Plugwise Circles and Circle+ on Linux.
 
 For the moment, this version pairs sockets with identity "000D6F00003". 
 It works on firmwares 2008-03-10 (Circle+) and 2008-08-26 (USB stick).
