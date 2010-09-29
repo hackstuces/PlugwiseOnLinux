@@ -7,10 +7,9 @@ It works on firmwares 2008-03-10 (Circle+) and 2008-08-26 (USB stick).
 
 Cloning :
 
+go to a folder (for example /home/user/hackstuces) and run :
 git clone git://github.com/hackstuces/PlugOnLinux.git
 cd PlugOnLinux
-git submodule init
-git submodule update
 
 Configuring :
 
