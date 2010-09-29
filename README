@@ -23,5 +23,3 @@ go to the folder PlugOnLinux and run : python pol_ap_en.py
 Notes :
 
 The pairing is done only when your sockets are initialized. To initialize, connect your Circle during 3s and then disconnect it during 3s. Repeat it 3 times. 
-
-
