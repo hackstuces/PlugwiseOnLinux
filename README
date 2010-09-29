@@ -15,7 +15,6 @@ git submodule update
 Configuring :
 
 run the command : apt-get install python-serial
-put the files CrcMoose.py CrcMoose.pyc pol_ap_en.py in the same folder
 
 Using :
 
