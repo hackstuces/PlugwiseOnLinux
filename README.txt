@@ -8,8 +8,8 @@ It works on firmwares 2008-03-10 (Circle+) and 2008-08-26 (USB stick).
 Cloning :
 
 go to a folder (for example /home/user/hackstuces) and run :
-git clone git://github.com/hackstuces/PlugOnLinux.git
-cd PlugOnLinux
+git clone git://github.com/hackstuces/PlugwiseOnLinux.git
+cd PlugwiseOnLinux
 
 Configuring :
 
@@ -19,7 +19,7 @@ apt-get install python-serial
 
 Using :
 
-go to the folder PlugOnLinux and run : 
+go to the folder PlugwiseOnLinux and run : 
 
 python pair_pol_v1.py
 
