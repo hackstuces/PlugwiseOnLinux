@@ -33,4 +33,4 @@ After, run the command :
 stty -F /dev/ttyUSB0 ispeed 115200 ospeed 115200 cs8 -parenb
 
 
-During the pairing (choose m in the menu), the Circle+ have to turn off (during few seconds) then turn on. 
+During the pairing (choose m in the menu), the Circle+ has to turn off (during few seconds) then turn on. 
